@@ -1,0 +1,10 @@
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\bin\Debug\GravityCICD.dacpac
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\bin\Debug\GravityCICD.dll
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\bin\Debug\GravityCICD.pdb
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\GravityCICD.sqlproj.AssemblyReference.cache
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\Model.xml
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\refactor.xml
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\postdeploy.sql
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\predeploy.sql
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\GravityCICD.dll
+C:\Projets\DacPacProjet\CICDProjets\GravityCICD\obj\Debug\GravityCICD.pdb
